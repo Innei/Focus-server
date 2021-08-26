@@ -9615,10 +9615,10 @@ mongodb@3.6.3:
   optionalDependencies:
     saslprep "^1.0.0"
 
-mongoose-lean-virtuals@0.7.6:
-  version "0.7.6"
-  resolved "https://registry.yarnpkg.com/mongoose-lean-virtuals/-/mongoose-lean-virtuals-0.7.6.tgz#2aa191e851b04a702d25997f19c16b6b9ebc7627"
-  integrity sha512-Yb3u9+1vTbCgG87BFTbKl2O3kzcKRnZF9A4bRbbE2NMvWJqGzj0iVdDxPXaZQ8lBhlgFMPwh6oEYIAAPIvld+g==
+mongoose-lean-virtuals@0.8.0:
+  version "0.8.0"
+  resolved "https://registry.yarnpkg.com/mongoose-lean-virtuals/-/mongoose-lean-virtuals-0.8.0.tgz#0ab8dbcf720f6f58297cab9a98a23e2fb3d2ce30"
+  integrity sha512-pOdHnLPXtPoVJgx/Fjju2eejaoWjiE3OEaYosF0ELnpUv8KxoIOjNdHLgKyhD+7W7Nd0S755LzZJgSESE2/acg==
   dependencies:
     array.prototype.flat "1.2.3"
     mpath "0.5.x"
