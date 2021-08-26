@@ -64,7 +64,7 @@
     "@nestjs/schedule": "0.4.3",
     "@nestjs/swagger": "4.8.2",
     "@nestjs/websockets": "7.6.18",
-    "@typegoose/auto-increment": "0.6.0",
+    "@typegoose/auto-increment": "0.9.0",
     "@typegoose/typegoose": "7.6.3",
     "@types/mkdirp": "1.0.2",
     "apollo-server-express": "2.25.2",
