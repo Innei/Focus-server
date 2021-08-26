@@ -81,7 +81,7 @@
     "file-type": "16.4.0",
     "get-folder-size": "2.0.1",
     "graphql": "15.5.1",
-    "graphql-tools": "7.0.5",
+    "graphql-tools": "8.1.0",
     "image-size": "1.0.0",
     "js-yaml": "4.1.0",
     "mongoose": "5.10.19",
