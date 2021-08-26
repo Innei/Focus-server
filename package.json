@@ -67,7 +67,7 @@
     "@typegoose/auto-increment": "0.6.0",
     "@typegoose/typegoose": "7.6.3",
     "@types/mkdirp": "1.0.2",
-    "apollo-server-express": "2.25.2",
+    "apollo-server-express": "3.3.0",
     "bcrypt": "5.0.1",
     "cache-manager": "3.4.4",
     "cache-manager-redis-store": "2.0.0",
