@@ -77,7 +77,7 @@
     "dayjs": "1.10.6",
     "ejs": "3.1.6",
     "fastify-multipart": "4.0.7",
-    "fastify-swagger": "4.7.0",
+    "fastify-swagger": "4.9.1",
     "file-type": "16.4.0",
     "get-folder-size": "2.0.1",
     "graphql": "15.5.1",

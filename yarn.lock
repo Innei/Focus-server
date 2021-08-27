@@ -6419,16 +6419,16 @@ fastify-static@^4.0.0:
     readable-stream "^3.4.0"
     send "^0.17.1"
 
-fastify-swagger@4.7.0:
-  version "4.7.0"
-  resolved "https://registry.yarnpkg.com/fastify-swagger/-/fastify-swagger-4.7.0.tgz#71cdf1c719137ffcb889b619bbc50edc4d92fcc8"
-  integrity sha512-IgmHuA8BGpBrvLninqDBQdlJEiB3yEg3XYYmqIcqQqWmU7KYNTQokWNTKG8nBPjj/P2wyTJ0fNxm/K2Fljq/hw==
+fastify-swagger@4.9.1:
+  version "4.9.1"
+  resolved "https://registry.yarnpkg.com/fastify-swagger/-/fastify-swagger-4.9.1.tgz#59b9a2ac54b6e1fbece95462fec418c1408461d8"
+  integrity sha512-1kQIIO/DyrRfWeS8r3h1dorDNAgPEG18IKeuMSsb9aDHx2B265O+VHBcYzuojLMVOOt25zCfFrWLG92YtORmDA==
   dependencies:
     fastify-plugin "^3.0.0"
     fastify-static "^4.0.0"
     js-yaml "^4.0.0"
     json-schema-resolver "^1.2.0"
-    openapi-types "^8.0.0"
+    openapi-types "^9.1.0"
 
 fastify-warning@^0.2.0:
   version "0.2.0"
@@ -10074,10 +10074,10 @@ onetime@^5.1.0, onetime@^5.1.2:
   dependencies:
     mimic-fn "^2.1.0"
 
-openapi-types@^8.0.0:
-  version "8.0.0"
-  resolved "https://registry.yarnpkg.com/openapi-types/-/openapi-types-8.0.0.tgz#7e1979538798d31a3c3bfed667e5e9295402f9bc"
-  integrity sha512-dcHYyCDOAy4QQTrur5Sn1L3lPVspB7rd04Rw/Q7AsMvfV797IiWgmKziFCbq8VhnBoREU/SPPSBDxtK9Biwa1g==
+openapi-types@^9.1.0:
+  version "9.2.0"
+  resolved "https://registry.yarnpkg.com/openapi-types/-/openapi-types-9.2.0.tgz#db50b38398b2ed7116cfa08fc7296d68528dbee2"
+  integrity sha512-3x0gg8DxhpZ5MVki7AK6jmMdVIZASmVGo9CoUtD+nksLdkqz7EzWKdfS9Oxxq1J7idnZV0b3LjqcvizfKFySpQ==
 
 optimism@^0.14.0:
   version "0.14.0"
